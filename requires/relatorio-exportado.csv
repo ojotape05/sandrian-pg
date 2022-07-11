@@ -1,0 +1,15 @@
+Codigo;Data Inicial;Data Final;Descrição;Comprador;Valor;Vendedor;Pagamento;OBS;Enviado?;Custo
+82;2022-07-06 10:25:26;2022-07-06 22:27:16;Foxtrot 6.0;Sandro Lucio Martins Pereira;105;Salatiel;Em aberto;;;40
+83;2022-07-06 10:28:19;2022-07-06 22:27:16;Hiroshi;Ronaldo Bueno de Oliveira;135;Salatiel;Cartão de Débito;BOLETO;;50
+84;2022-07-06 10:28:39;2022-07-06 22:27:16;Novo México;Roberto Junior;110;Salatiel;Pix;;;45
+87;2022-07-06 10:33:10;2022-07-06 22:27:16;Machadinha LumberJack;Alex Batista;125;Salatiel;Em aberto;;;80
+88;2022-07-06 10:34:21;2022-07-06 22:27:16;Facão Boomerang;Agnaldo Garcez Junior;150;Salatiel;Pix;;;65
+92;2022-07-06 20:05:07;2022-07-06 22:27:16;Machadinha Double Horn;Marcelo Jose Jung Junior;135;Salatiel;Em aberto;;;75
+93;2022-07-06 20:07:12;2022-07-06 22:27:16;Orono;Cristiano Ribeiro Fernandes;125;Salatiel;Pix;;;50
+94;2022-07-06 20:08:55;2022-07-06 22:27:16;Corvallis;Nelson Farina Fonseca;100;Salatiel;Pix;;;45
+99;2022-07-07 09:39:25;2022-07-07 11:13:26;Pasadena;BRUNO CAS;110;Salatiel;Em aberto;;;45
+103;2022-07-07 13:30:24;2022-07-07 16:06:58;Ponce;ADSILON LEITE;135;Salatiel;Em aberto;;;70
+104;2022-07-07 13:31:54;2022-07-07 16:06:58;Porto Rico;HERALDO A DAL FABBRO;125;Salatiel;Em aberto;;;50
+108;2022-07-07 13:44:15;2022-07-07 16:06:58;Carolina do Sul;RONALDO BUENO DE OLIVEIRA;85;Salatiel;Em aberto;;;45
+110;2022-07-07 19:50:18;2022-07-07 19:50:41;Chimayo;Thiago Provazi;125;Salatiel;;;;50
+113;2022-07-07 19:57:08;2022-07-07 21:02:50;Minessota;Sandro Lúcio Martins Pereira;100;Salatiel;Em aberto;;;45

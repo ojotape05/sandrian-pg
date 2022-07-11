@@ -1,0 +1,84 @@
+[29-Jun-2022 16:24:56 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 16:29:18 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 16:29:22 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 16:29:48 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 17:59:59 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 18:00:41 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 18:09:55 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 18:10:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 8
+[29-Jun-2022 18:28:44 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[30-Jun-2022 21:40:28 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:40:35 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:42:39 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:47:46 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:48:12 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:50:27 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:51:11 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:51:17 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:51:23 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:53:17 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:53:29 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:53:44 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[30-Jun-2022 21:59:40 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[01-Jul-2022 11:17:21 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[01-Jul-2022 17:23:26 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 31
+[01-Jul-2022 23:19:59 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[01-Jul-2022 23:20:00 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[01-Jul-2022 23:20:22 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[01-Jul-2022 23:35:55 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[01-Jul-2022 23:37:17 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[02-Jul-2022 17:00:48 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[02-Jul-2022 21:33:30 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[03-Jul-2022 16:31:33 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[03-Jul-2022 17:16:19 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[04-Jul-2022 08:42:35 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[04-Jul-2022 08:50:27 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 30
+[04-Jul-2022 08:50:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 30
+[04-Jul-2022 08:53:37 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[04-Jul-2022 09:25:24 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[04-Jul-2022 09:45:15 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 30
+[04-Jul-2022 09:45:44 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 30
+[04-Jul-2022 09:47:52 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 30
+[04-Jul-2022 09:59:31 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 30
+[04-Jul-2022 10:30:40 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/vende768/public_html/requires/darbaixa_todas.php on line 31
+[04-Jul-2022 11:00:31 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[04-Jul-2022 11:00:31 America/Fortaleza] PHP Warning:  fopen(public_html/requires/relatorio-exportado.xls): failed to open stream: No such file or directory in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 85
+[04-Jul-2022 11:00:31 America/Fortaleza] PHP Fatal error:  Uncaught PHPExcel_Writer_Exception: Can't open public_html/requires/relatorio-exportado.xls. It may be in use or protected. in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php:88
+Stack trace:
+#0 /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Writer/Excel5.php(214): PHPExcel_Shared_OLE_PPS_Root->save('public_html/req...')
+#1 /home1/vende768/public_html/requires/exportar.php(34): PHPExcel_Writer_Excel5->save('public_html/req...')
+#2 {main}
+  thrown in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 88
+[04-Jul-2022 11:00:40 America/Fortaleza] PHP Warning:  fopen(public_html/requires/relatorio-exportado.xls): failed to open stream: No such file or directory in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 85
+[04-Jul-2022 11:00:40 America/Fortaleza] PHP Fatal error:  Uncaught PHPExcel_Writer_Exception: Can't open public_html/requires/relatorio-exportado.xls. It may be in use or protected. in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php:88
+Stack trace:
+#0 /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Writer/Excel5.php(214): PHPExcel_Shared_OLE_PPS_Root->save('public_html/req...')
+#1 /home1/vende768/public_html/requires/exportar.php(34): PHPExcel_Writer_Excel5->save('public_html/req...')
+#2 {main}
+  thrown in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 88
+[04-Jul-2022 11:00:43 America/Fortaleza] PHP Warning:  fopen(public_html/requires/relatorio-exportado.xls): failed to open stream: No such file or directory in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 85
+[04-Jul-2022 11:00:43 America/Fortaleza] PHP Fatal error:  Uncaught PHPExcel_Writer_Exception: Can't open public_html/requires/relatorio-exportado.xls. It may be in use or protected. in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php:88
+Stack trace:
+#0 /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Writer/Excel5.php(214): PHPExcel_Shared_OLE_PPS_Root->save('public_html/req...')
+#1 /home1/vende768/public_html/requires/exportar.php(34): PHPExcel_Writer_Excel5->save('public_html/req...')
+#2 {main}
+  thrown in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php on line 88
+[04-Jul-2022 11:10:30 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[04-Jul-2022 11:23:10 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[04-Jul-2022 13:51:36 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[04-Jul-2022 13:51:55 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[04-Jul-2022 13:56:23 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[04-Jul-2022 13:57:44 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[06-Jul-2022 07:10:00 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[06-Jul-2022 07:10:34 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[06-Jul-2022 07:11:08 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[06-Jul-2022 07:11:50 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[06-Jul-2022 07:12:26 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[06-Jul-2022 07:12:49 America/Fortaleza] PHP Warning:  file_get_contents(): Filename cannot be empty in /home1/vende768/public_html/requires/editar_faca.php on line 8
+[06-Jul-2022 22:29:02 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[07-Jul-2022 02:49:03 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[07-Jul-2022 03:29:55 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[07-Jul-2022 11:13:35 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[07-Jul-2022 16:07:49 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[07-Jul-2022 19:50:48 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
+[07-Jul-2022 21:02:55 America/Fortaleza] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/vende768/public_html/PHPExcel/Classes/PHPExcel/Shared/OLE.php on line 288
